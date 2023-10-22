@@ -1,0 +1,24 @@
+{
+  "name": "webdev1project",
+  "version": "1.0.0",
+  "description": "this is my individual project for class using node,playwright, and git",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lml8/Projects-webdev1project.git"
+  },
+  "keywords": [
+    "example",
+    "student",
+    "project"
+  ],
+  "author": "Luis Leon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lml8/Projects-webdev1project/issues"
+  },
+  "homepage": "https://github.com/lml8/Projects-webdev1project#readme"
+}
